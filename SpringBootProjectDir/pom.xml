@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>xdvrx1_converterProject</groupId>
 	<artifactId>xdvrx1_converterProject</artifactId>
-	<version>v3</version>
+	<version>v2.1.1</version>
 	<name>ConverterApp</name>
 	<description>converter app written in Java</description>
 
