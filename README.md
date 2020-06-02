@@ -59,8 +59,8 @@ You can also create a pull request or raise
 an issue to start the discussion or query/ies.
 
 ## Compile, Build & Run
-Before you compile and build, make sure you are at the project directory.
-I'm using Maven build tool here. 
+Before you compile and build, make sure you are at the project directory
+`SpringBootProjectDir`. Take note also, I'm using Maven build tool here. 
 
 In Windows,
 
