@@ -1,6 +1,6 @@
 # Spring Boot Deployment Tutorial
-
-If you are interested in the project itself, please refer to the 
+To demonstrate, I'll use my very own project purely written in Java and 
+if you are interested in the project itself, please refer to the 
 [original repo of this project](https://github.com/xdvrx1/converter-app). 
 
 This repo focuses on how to use the Spring Boot to create
