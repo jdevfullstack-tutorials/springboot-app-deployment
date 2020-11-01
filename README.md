@@ -1,8 +1,6 @@
-# Simple Measurement Converter Written in Java
+# Spring Boot Deployment Tutorial
 
-![GUI](resources/sampleGUI_mark5.png)
-
-Please refer to the 
+If you are interested in the project itself, please refer to the 
 [original repo of this project](https://github.com/xdvrx1/converter-app). 
 
 This repo focuses on how to use the Spring Boot to create
@@ -46,8 +44,6 @@ What others are doing is relying on `CommandLineRunner`. This is needed
 when you want to trap user inputs on the command line once the
 Spring Boot is started and before your program runs. In our case here,
 we don't need that. 
-  
-See the project for the complete codes and setup!
 
 ## Q&A
 
@@ -60,7 +56,7 @@ an issue to start the discussion or query/ies.
 
 ## Compile, Build & Run
 Before you compile and build, make sure you are at the project directory
-`SpringBootProjectDir`. Take note also, I'm using Maven build tool here. 
+`SpringBootProjectDir` of this repo. Take note also, I'm using Maven build tool here. 
 
 In Windows,
 
