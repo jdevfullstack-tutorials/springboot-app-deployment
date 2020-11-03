@@ -1,4 +1,6 @@
 # Spring Boot Deployment Tutorial
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxdvrx1%2Fspringboot-app-deployment-tutorial&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=PAGE+VIEWS&edge_flat=false)](https://hits.seeyoufarm.com)
+
 To demonstrate, I'll use my very own project purely written in Java and 
 if you are interested in the project itself, please refer to the 
 [original repo of this project](https://github.com/xdvrx1/converter-app). 
